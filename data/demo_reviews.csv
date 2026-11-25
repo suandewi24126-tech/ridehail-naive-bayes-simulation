@@ -1,0 +1,61 @@
+﻿score,app,review,label
+4,Gojek,Aplikasi menampilkan estimasi biaya sebelum pesanan dibuat.,0
+5,Grab,Riwayat perjalanan tersimpan pada menu aktivitas.,0
+4,Maxim,Lokasi penjemputan ditampilkan melalui peta aplikasi.,0
+5,Gojek,Pembayaran dapat dilakukan menggunakan saldo digital.,0
+4,Grab,Informasi nomor kendaraan muncul setelah pengemudi menerima pesanan.,0
+5,Maxim,Aplikasi menyediakan pilihan metode pembayaran tunai.,0
+4,Gojek,Waktu penjemputan tercatat pada detail perjalanan.,0
+5,Grab,Menu bantuan tersedia pada halaman utama aplikasi.,0
+4,Maxim,Tarif perjalanan tercantum sebelum konfirmasi pemesanan.,0
+5,Gojek,Status pesanan berubah setelah pengemudi menerima permintaan.,0
+4,Grab,Alamat tujuan dapat dimasukkan melalui kolom pencarian.,0
+5,Maxim,Bukti pembayaran tersedia setelah perjalanan selesai.,0
+4,Gojek,Aplikasi menampilkan foto dan nama pengemudi.,0
+5,Grab,Fitur pembatalan tersedia pada halaman pesanan aktif.,0
+4,Maxim,Rute perjalanan terlihat pada peta digital.,0
+5,Gojek,Notifikasi dikirim ketika pengemudi tiba di lokasi.,0
+4,Grab,Detail pesanan berisi jarak dan estimasi waktu perjalanan.,0
+5,Maxim,Aplikasi memiliki menu untuk melihat promosi yang tersedia.,0
+4,Gojek,Pengguna dapat memilih layanan kendaraan roda dua.,0
+5,Grab,Nomor pesanan tercantum pada halaman detail transaksi.,0
+4,Maxim,Daftar alamat tersimpan dapat dibuka melalui menu akun.,0
+5,Gojek,Pusat bantuan menampilkan beberapa kategori pertanyaan.,0
+4,Grab,Status pembayaran tercatat pada riwayat transaksi.,0
+5,Maxim,Aplikasi meminta izin lokasi untuk menentukan titik jemput.,0
+4,Gojek,Pengguna dapat memasukkan kode promo saat memesan.,0
+5,Grab,Rincian perjalanan menampilkan titik awal dan tujuan.,0
+4,Maxim,Menu profil menampilkan informasi akun pengguna.,0
+5,Gojek,Pilihan layanan tersedia pada halaman pemesanan.,0
+4,Grab,Aplikasi memberikan estimasi waktu kedatangan pengemudi.,0
+5,Maxim,Transaksi perjalanan dapat dilihat kembali pada riwayat.,0
+1,Gojek,Saya sangat puas karena pengemudinya ramah dan sopan.,1
+2,Grab,"Aplikasi ini menyebalkan, sering lambat saat dibuka.",1
+5,Maxim,Menurut saya tarifnya terlalu mahal untuk jarak dekat.,1
+1,Gojek,Pelayanannya bagus sekali dan membuat saya senang.,1
+2,Grab,Saya kecewa karena pesanan dibatalkan begitu saja.,1
+5,Maxim,Pengalaman memakai aplikasi ini terasa sangat nyaman.,1
+1,Gojek,Driver kurang ramah sehingga saya merasa tidak dihargai.,1
+2,Grab,Saya suka tampilannya karena terlihat sederhana dan menarik.,1
+5,Maxim,"Aplikasi ini buruk sekali, membuat saya kesal.",1
+1,Gojek,Menurut saya layanan ini sangat membantu aktivitas harian.,1
+2,Grab,Saya merasa aman selama perjalanan dengan pengemudi tersebut.,1
+5,Maxim,Prosesnya menjengkelkan dan membuat saya menunggu lama.,1
+1,Gojek,"Pengemudinya baik banget, saya puas dengan pelayanannya.",1
+2,Grab,Saya tidak suka aplikasi ini karena sering mengalami gangguan.,1
+5,Maxim,Perjalanan tadi menyenangkan dan pengemudinya sangat sopan.,1
+1,Gojek,Harganya menurut saya tidak sebanding dengan kualitas layanan.,1
+2,Grab,Saya senang menggunakan layanan ini setiap hari.,1
+5,Maxim,Pelayanan hari ini mengecewakan dan sangat tidak memuaskan.,1
+1,Gojek,"Aplikasinya praktis sekali, saya merasa terbantu.",1
+2,Grab,Saya kesal karena pengemudi datang sangat terlambat.,1
+5,Maxim,Menurut saya pengalaman ini luar biasa menyenangkan.,1
+1,Gojek,Layanan ini terasa buruk dan tidak profesional.,1
+2,Grab,Saya puas dengan kecepatan dan keramahan pengemudinya.,1
+5,Maxim,Aplikasinya bikin frustrasi karena sulit digunakan.,1
+1,Gojek,Saya merasa tarifnya wajar dan pelayanannya menyenangkan.,1
+2,Grab,"Sangat mengecewakan, saya tidak akan memakai lagi.",1
+5,Maxim,Pengalaman saya cukup baik dan membuat nyaman.,1
+1,Gojek,Saya benci ketika aplikasi tiba-tiba berhenti sendiri.,1
+2,Grab,"Driver sangat sopan, saya benar-benar senang.",1
+5,Maxim,Menurut saya kualitas layanan ini kurang bagus.,1

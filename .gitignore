@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+.env
+
+# Editor / OS
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Private or potentially licensed datasets
+/data/raw/*.csv
+/data/processed/*.csv
+
+# Generated model artifacts and reports
+/models/*.joblib
+/reports/*.json
+/reports/*.csv
+/reports/figures/*
+!/reports/figures/.gitkeep
